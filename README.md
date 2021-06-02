@@ -3,6 +3,8 @@ This is a casual pytorch implementation of [spatially-adaptive pixelwise network
 
 I tested the code in database of [CMP Facade Database](https://cmp.felk.cvut.cz/~tylecr1/facade/)
 
+I provided a sample [checkpoint](https://drive.google.com/drive/folders/1OY7EZjVv7LUrQPRZymd_VlKbzwSLxvyX?usp=sharing) which generate the following result example.
+
 ## A result sample
 ![](f3_7.jpg)
 
