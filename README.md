@@ -6,6 +6,7 @@ I tested the code in database of [CMP Facade Database](https://cmp.felk.cvut.cz/
 I provided a sample [checkpoint](https://drive.google.com/drive/folders/1OY7EZjVv7LUrQPRZymd_VlKbzwSLxvyX?usp=sharing) which generate the following result example.
 
 ## A result sample
+Image caption: Label masks, results, and ground truth image 
 ![](f3_7.jpg)
 
 Still some issues left to solve:
