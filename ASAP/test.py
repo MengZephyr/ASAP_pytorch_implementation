@@ -42,7 +42,7 @@ bsize = 2
 TestKK = len(TestList) // bsize
 
 modelArch = architecture(imgH=imgS, imgW=imgS, guiH=guiS, guiW=guiS, K=K, dimG=3, dimOut=3, bsize=bsize, device=device,
-                         genCKPName='../ckp/Asap_30000_Gen.ckp', disCKPName=None)
+                         genCKPName='../ckp/f__Gen.ckp', disCKPName=None)
 
 def getBatchList(pngList):
     gImgList = pngList
